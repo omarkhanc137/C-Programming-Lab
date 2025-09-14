@@ -14,3 +14,13 @@ This is my repository.
 - JavaScript
 - C++
 
+# My Project Heading
+
+This project is about practicing **bold**, *italic*, and ~~strikethrough~~ text.
+
+Here’s a code example:
+
+```bash
+git status
+
+
